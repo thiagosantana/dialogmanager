@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#main {
+	height: 100vh;
+	background-color: #151a2b;
+	display: grid;
+}
+
+#header {
+	height: 80px;
+	background-color: #000000;
+	display: grid;
+}
